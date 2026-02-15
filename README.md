@@ -1,7 +1,7 @@
-# 🌏 TerraClip / 大地裁剪师
+# 🌏 TerraClip / 地图裁剪
 
 > **Precision Satellite Imagery for Field Surveys & Research**
-> **专为野外核查与科研设计的高精度卫星地图切片工具**
+> **专为牛马野外设计的卫星地图切片工具**
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -50,3 +50,4 @@
 ## License
 
 MIT License.
+
