@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beijing Temple of Heaven (Point)",
+                "type": "Point",
+                "description": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.4128,
+                    39.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beijing Temple of Heaven (Park Boundary)",
+                "type": "Polygon",
+                "description": "Beijing"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            116.405,
+                            39.886
+                        ],
+                        [
+                            116.420,
+                            39.886
+                        ],
+                        [
+                            116.420,
+                            39.878
+                        ],
+                        [
+                            116.405,
+                            39.878
+                        ],
+                        [
+                            116.405,
+                            39.886
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shanghai Oriental Pearl Tower (Point)",
+                "type": "Point",
+                "description": "Shanghai"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4998,
+                    31.2397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lhasa Potala Palace Square (Polygon)",
+                "type": "Polygon",
+                "description": "Tibet"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            91.115,
+                            29.655
+                        ],
+                        [
+                            91.120,
+                            29.655
+                        ],
+                        [
+                            91.120,
+                            29.652
+                        ],
+                        [
+                            91.115,
+                            29.652
+                        ],
+                        [
+                            91.115,
+                            29.655
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Xi'an Bell Tower (Point)",
+                "type": "Point",
+                "description": "Shaanxi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.94017,
+                    34.25904
+                ]
+            }
+        }
+    ]
+}
