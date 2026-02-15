@@ -1,0 +1,11 @@
+streamlit
+geopandas
+folium
+streamlit-folium
+mercantile
+requests
+Pillow
+fiona
+kml2geojson
+shapely
+rasterio
